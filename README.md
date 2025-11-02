@@ -24,6 +24,7 @@ You can start by downloading the video you want (average 30 seconds is recommend
 $ sudo apt install yt-dlp -y; git clone http://github.com/pappafrank/video-flow.git; cd video-flow; python3 -m venv venv;source venv/bin/activate; pip install -r requirements.txt; python3 video-flow.py
 ```
 
+You can also set the timeout between frames depending on the video you uploaded on PixelFlow's web interface.
 
 ## Note
 
